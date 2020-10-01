@@ -1,4 +1,7 @@
 lst = list(map(int,input().split()))
 
-a = max(lst)
-print(a)
+#Find maximum
+print(max(lst))
+
+#Find minimum
+print(min(lst))
