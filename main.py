@@ -1,7 +1,7 @@
 lst = list(map(int,input().split()))
 
 #Find maximum
-print(max(lst))
+print("Your maximum number is : "+max(lst))
 
 #Find minimum
-print(min(lst))
+print("Your minimum number is : "+min(lst))
